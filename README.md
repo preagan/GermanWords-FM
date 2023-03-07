@@ -7,6 +7,10 @@ FileMaker app for learning German Words
 
 Offered as an example of my FileMaker UI skills. Most of my professional projects have been covered by NDA agreements. This simple app was developed for my own personal use so it's free of restrictions.
 
+Sign into this file as Guest for data entry or use these credentials to see coding
+- admin
+- password (you'll need to change this immediately)
+
 ## **FileMaker for the uninitiated**
 
 This app was built using FileMaker Pro Advanced v18. A wholly-owned subsidiary of Apple, FileMaker software recently had a name change to Claris. That paid software has similarities to no-code/low-code and client-server architectures. This demonstration app is meant to be saved to an iPhone and run on the FileMaker Go iPhone app. However it will also run on a FileMaker desktop client.
